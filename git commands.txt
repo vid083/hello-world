@@ -4,3 +4,10 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/vidya0397/hello-world.git
 git push -u origin master
+-
+after adding changes to folder run following command
+1 git diff--> to check diff bi\w previous version to current version
+2 git status--> check 
+3 git add . --> to add changes to local git
+4 git commit -m MESSAGE --> commiting cg\hanges to local git
+5 git push ---> push local changes to remote git sever(github.com)
